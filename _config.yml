@@ -1,10 +1,10 @@
-#remote_theme: pages-themes/merlot@v0.2.0
+remote_theme: pages-themes/merlot@v0.2.0
 #remote_theme: pages-themes/architect@v0.2.0
 #remote_theme: pages-themes/midnight@v0.2.0
-theme: midnight
+#theme: minima
 
-#plugins:
-#- jekyll-remote-theme # add this line to the plugins list if you already have one
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Nancy's Story
 description: The tale of a theme on gitHub pages!
 show_downloads: true
