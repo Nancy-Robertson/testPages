@@ -3,7 +3,7 @@ remote_theme: pages-themes/merlot@v0.2.0
 #remote_theme: pages-themes/midnight@v0.2.0
 #theme: minima
 
-google_analytics: G-2BKX51NMM
+google_analytics: G-2BKX51NMMZ
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Nancy's Story
